@@ -1,0 +1,4 @@
+/node_modules
+/dist/.clasp.json
+dist/Convert.js.LICENSE.txt
+clasp.json
